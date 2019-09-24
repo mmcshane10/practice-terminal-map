@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/2D-map/bin/Debug/netcoreapp2.2/map.deps.json
+/Users/Guest/Desktop/2D-map/bin/Debug/netcoreapp2.2/map.runtimeconfig.json
+/Users/Guest/Desktop/2D-map/bin/Debug/netcoreapp2.2/map.runtimeconfig.dev.json
+/Users/Guest/Desktop/2D-map/bin/Debug/netcoreapp2.2/map.dll
+/Users/Guest/Desktop/2D-map/bin/Debug/netcoreapp2.2/map.pdb
+/Users/Guest/Desktop/2D-map/obj/Debug/netcoreapp2.2/map.csprojAssemblyReference.cache
+/Users/Guest/Desktop/2D-map/obj/Debug/netcoreapp2.2/map.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/2D-map/obj/Debug/netcoreapp2.2/map.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/2D-map/obj/Debug/netcoreapp2.2/map.AssemblyInfo.cs
+/Users/Guest/Desktop/2D-map/obj/Debug/netcoreapp2.2/map.dll
+/Users/Guest/Desktop/2D-map/obj/Debug/netcoreapp2.2/map.pdb
